@@ -82,7 +82,7 @@ const handleLogin = async (req, res) => {
 
 const handleAuth = async (req, res) => {
     try {
-        const token = req?.cookies._id;
+        const token = req?.cookies;
         
         // if (!token) {
         //     return res.status(400).send("No token");
