@@ -98,7 +98,7 @@ const handleAuth = async (req, res) => {
 
     }
     catch (err) {
-        res.status(500).send("Internal server Error");
+        res.status(500).send("Internal server Error"+err);
     }
 }
 const handlePopularDest = async (req, res) => {
