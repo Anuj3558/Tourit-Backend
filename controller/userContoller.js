@@ -84,16 +84,16 @@ const handleAuth = async (req, res) => {
     try {
         const token = req.params;
         
-        if (!token) {
-            return res.status(400).send("No token");
-        }
-        const decoded = jwt.verify(token, process.env.SECERET_KEY);
-        const email = decoded.userEmail;
-        const password = decoded.pass;
-        const user = await TouristUser.find({ email: email, password: password })
-        if (!user[0]) {
-            return res.status(401).send("Invalid Token");
-        }
+        // if (!token) {
+        //     return res.status(400).send("No token");
+        // }
+        // const decoded = jwt.verify(token, process.env.SECERET_KEY);
+        // const email = decoded.userEmail;
+        // const password = decoded.pass;
+        // const user = await TouristUser.find({ email: email, password: password })
+        // if (!user[0]) {
+        //     return res.status(401).send("Invalid Token");
+        // }
         res.status(200).send(token);
 
     }
