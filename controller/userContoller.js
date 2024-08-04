@@ -71,7 +71,7 @@ const handleLogin = async (req, res) => {
             userEmail,
             pass
         }, process.env.SECERET_KEY, { expiresIn: '24h' })
-        res.status(200).send(id).cookie('_id', id, { httpOnly: true });
+        res.status(200).send(id).cookie('_id', id);
     }
     catch (err) {
         res.status(500).send("Internal server error");
