@@ -1,0 +1,775 @@
+[{
+  "_id": {
+    "$oid": "66adb33a3838088965c4e49c"
+  },
+  "name": "Paris",
+  "description": "Experience the city of lights and love with iconic landmarks.",
+  "image": "paris",
+  "days": "3 Days",
+  "people": "2 People",
+  "location": "France",
+  "date": "2024-12-01",
+  "price": "15000",
+  "rating": 4.7,
+  "highlights": [
+    "Eiffel Tower",
+    "Louvre Museum",
+    "Champs-Élysées",
+    "Notre-Dame Cathedral"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Paris and check-in at the hotel.",
+    "Day 2: Visit the Eiffel Tower and Seine River cruise.",
+    "Day 3: Explore the Louvre Museum and Montmartre."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Paris,+France",
+  "contact": {
+    "phone": "+33 1 23 45 67 89",
+    "email": "info@parisescapes.com"
+  },
+  "type": "popular",
+  "publicId": "paris_fc4d1058fb"
+},
+{
+  "_id": {
+    "$oid": "66adb3413838088965c4e49d"
+  },
+  "name": "New York",
+  "description": "Explore the vibrant streets and cultural landmarks of NYC.",
+  "image": "ny",
+  "days": "5 Days",
+  "people": "4 People",
+  "location": "USA",
+  "date": "2024-11-15",
+  "price": "25000",
+  "rating": 4.8,
+  "highlights": [
+    "Statue of Liberty",
+    "Central Park",
+    "Times Square",
+    "Broadway Shows"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in New York and check-in at the hotel.",
+    "Day 2: Visit the Statue of Liberty and Ellis Island.",
+    "Day 3: Explore Central Park and Times Square.",
+    "Day 4: Attend a Broadway show and visit the Museum of Modern Art.",
+    "Day 5: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/New+York,+NY,+USA",
+  "contact": {
+    "phone": "+1 212-123-4567",
+    "email": "info@nycgetaways.com"
+  },
+  "type": "popular",
+  "publicId": "small_new_York_daf2fce9ec"
+},
+{
+  "_id": {
+    "$oid": "66adb3493838088965c4e49e"
+  },
+  "name": "Tokyo",
+  "description": "Dive into the bustling metropolis with a blend of tradition and modernity.",
+  "image": "tokyo",
+  "days": "7 Days",
+  "people": "3 People",
+  "location": "Japan",
+  "date": "2024-12-05",
+  "price": "30000",
+  "rating": 4.9,
+  "highlights": [
+    "Shibuya Crossing",
+    "Senso-ji Temple",
+    "Tokyo Tower",
+    "Akihabara"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Tokyo and check-in at the hotel.",
+    "Day 2: Explore Shibuya Crossing and Shinjuku.",
+    "Day 3: Visit Senso-ji Temple and Asakusa.",
+    "Day 4: Discover Akihabara and Tokyo Tower.",
+    "Day 5: Day trip to Mount Fuji.",
+    "Day 6: Explore Odaiba and Tokyo Skytree.",
+    "Day 7: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Tokyo,+Japan",
+  "contact": {
+    "phone": "+81 3-1234-5678",
+    "email": "info@tokyotravel.com"
+  },
+  "type": "popular",
+  "publicId": "tokyo_340d34b26f"
+},
+{
+  "_id": {
+    "$oid": "66adb34e3838088965c4e49f"
+  },
+  "name": "Barcelona",
+  "description": "Discover the unique architecture and vibrant culture of Barcelona.",
+  "image": "barcelona",
+  "days": "4 Days",
+  "people": "2 People",
+  "location": "Spain",
+  "date": "2024-12-10",
+  "price": "18000",
+  "rating": 4.6,
+  "highlights": [
+    "Sagrada Família",
+    "Park Güell",
+    "La Rambla",
+    "Gothic Quarter"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Barcelona and check-in at the hotel.",
+    "Day 2: Visit Sagrada Família and Park Güell.",
+    "Day 3: Explore La Rambla and the Gothic Quarter.",
+    "Day 4: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Barcelona,+Spain",
+  "contact": {
+    "phone": "+34 93 123 4567",
+    "email": "info@barcelonagetaways.com"
+  },
+  "type": "popular",
+  "publicId": "barcelona_b10a8d114e"
+},
+{
+  "_id": {
+    "$oid": "66adb3533838088965c4e4a0"
+  },
+  "name": "Rome",
+  "description": "Step back in time and explore the ancient wonders of Rome.",
+  "image": "rome",
+  "days": "5 Days",
+  "people": "3 People",
+  "location": "Italy",
+  "date": "2024-12-20",
+  "price": "22000",
+  "rating": 4.8,
+  "highlights": [
+    "Colosseum",
+    "Vatican City",
+    "Pantheon",
+    "Roman Forum"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Rome and check-in at the hotel.",
+    "Day 2: Visit the Colosseum and Roman Forum.",
+    "Day 3: Explore Vatican City and St. Peter’s Basilica.",
+    "Day 4: Visit the Pantheon and Piazza Navona.",
+    "Day 5: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Rome,+Italy",
+  "contact": {
+    "phone": "+39 06 1234 5678",
+    "email": "info@rometravel.com"
+  },
+  "type": "popular",
+  "publicId": "rome_1651add21b"
+},
+{
+  "_id": {
+    "$oid": "66adb3593838088965c4e4a1"
+  },
+  "name": "Sydney",
+  "description": "Enjoy the stunning harbor views and relaxed lifestyle of Sydney.",
+  "image": "sydney",
+  "days": "6 Days",
+  "people": "4 People",
+  "location": "Australia",
+  "date": "2024-12-25",
+  "price": "28000",
+  "rating": 4.7,
+  "highlights": [
+    "Sydney Opera House",
+    "Harbour Bridge",
+    "Bondi Beach",
+    "Royal Botanic Garden"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Sydney and check-in at the hotel.",
+    "Day 2: Visit the Sydney Opera House and Harbour Bridge.",
+    "Day 3: Explore Bondi Beach and its surroundings.",
+    "Day 4: Discover the Royal Botanic Garden and Darling Harbour.",
+    "Day 5: Day trip to Blue Mountains.",
+    "Day 6: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Sydney,+Australia",
+  "contact": {
+    "phone": "+61 2 1234 5678",
+    "email": "info@sydneygetaways.com"
+  },
+  "type": "popular",
+  "publicId": "sydney_fe6590217e"
+},
+{
+  "_id": {
+    "$oid": "66adb35e3838088965c4e4a2"
+  },
+  "name": "Dubai",
+  "description": "Experience the luxurious and futuristic cityscape of Dubai.",
+  "image": "dubai",
+  "days": "4 Days",
+  "people": "2 People",
+  "location": "UAE",
+  "date": "2024-11-30",
+  "price": "25000",
+  "rating": 4.9,
+  "highlights": [
+    "Burj Khalifa",
+    "Dubai Mall",
+    "Palm Jumeirah",
+    "Dubai Marina"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Dubai and check-in at the hotel.",
+    "Day 2: Visit the Burj Khalifa and Dubai Mall.",
+    "Day 3: Explore Palm Jumeirah and Dubai Marina.",
+    "Day 4: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Dubai,+UAE",
+  "contact": {
+    "phone": "+971 4 123 4567",
+    "email": "info@dubaigetaways.com"
+  },
+  "type": "popular",
+  "publicId": "large_dubai_11aec8073c"
+},
+{
+  "_id": {
+    "$oid": "66adb3633838088965c4e4a3"
+  },
+  "name": "Istanbul",
+  "description": "Immerse yourself in the rich history and vibrant culture of Istanbul.",
+  "image": "istanbul",
+  "days": "5 Days",
+  "people": "3 People",
+  "location": "Turkey",
+  "date": "2024-12-12",
+  "price": "20000",
+  "rating": 4.6,
+  "highlights": [
+    "Hagia Sophia",
+    "Topkapi Palace",
+    "Grand Bazaar",
+    "Bosphorus Cruise"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Istanbul and check-in at the hotel.",
+    "Day 2: Visit Hagia Sophia and Topkapi Palace.",
+    "Day 3: Explore the Grand Bazaar and Blue Mosque.",
+    "Day 4: Take a Bosphorus Cruise.",
+    "Day 5: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Istanbul,+Turkey",
+  "contact": {
+    "phone": "+90 212 123 4567",
+    "email": "info@istanbultravel.com"
+  },
+  "type": "popular",
+  "publicId": "istambul_366ef35c55"
+},
+{
+  "_id": {
+    "$oid": "66adb3683838088965c4e4a4"
+  },
+  "name": "Cape Town",
+  "description": "Explore the beautiful landscapes and diverse culture of Cape Town.",
+  "image": "capetown",
+  "days": "6 Days",
+  "people": "4 People",
+  "location": "South Africa",
+  "date": "2024-12-22",
+  "price": "26000",
+  "rating": 4.7,
+  "highlights": [
+    "Table Mountain",
+    "Cape of Good Hope",
+    "Victoria & Alfred Waterfront",
+    "Kirstenbosch Gardens"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Cape Town and check-in at the hotel.",
+    "Day 2: Visit Table Mountain and explore the Waterfront.",
+    "Day 3: Take a trip to Cape of Good Hope.",
+    "Day 4: Visit Kirstenbosch Gardens and enjoy a local tour.",
+    "Day 5: Free day for shopping or additional activities.",
+    "Day 6: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Cape+Town,+South+Africa",
+  "contact": {
+    "phone": "+27 21 123 4567",
+    "email": "info@capetowntrips.com"
+  },
+  "type": "popular",
+  "publicId": "CAPE_TOWN_96c231f8a4"
+},
+{
+  "_id": {
+    "$oid": "66ade61ecf51746599c4e49b"
+  },
+  "name": "Seoul",
+  "description": "Discover the dynamic cityscape and rich cultural heritage of Seoul.",
+  "image": "seoul.jpg",
+  "days": "5 Days",
+  "people": "2 People",
+  "location": "South Korea",
+  "date": "2024-11-01",
+  "price": "20000",
+  "rating": 4.7,
+  "highlights": [
+    "Gyeongbokgung Palace",
+    "N Seoul Tower",
+    "Bukchon Hanok Village",
+    "Myeongdong Shopping Street"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Seoul and check-in at the hotel.",
+    "Day 2: Visit Gyeongbokgung Palace and Bukchon Hanok Village.",
+    "Day 3: Explore Myeongdong Shopping Street and N Seoul Tower.",
+    "Day 4: Day trip to DMZ.",
+    "Day 5: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Seoul,+South+Korea",
+  "contact": {
+    "phone": "+82 2-123-4567",
+    "email": "info@seoultravel.com"
+  },
+  "type": "normal",
+  "publicId": "test7_6f5ada0de8"
+},
+{
+  "_id": {
+    "$oid": "66ade61fcf51746599c4e49c"
+  },
+  "name": "Auckland",
+  "description": "Explore the scenic beauty and vibrant culture of Auckland.",
+  "image": "auckland.jpg",
+  "days": "5 Days",
+  "people": "2 People",
+  "location": "New Zealand",
+  "date": "2024-12-18",
+  "price": "23000",
+  "rating": 4.8,
+  "highlights": [
+    "Sky Tower",
+    "Auckland Harbour",
+    "Waiheke Island",
+    "Auckland Zoo"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Auckland and check-in at the hotel.",
+    "Day 2: Visit Sky Tower and Auckland Harbour.",
+    "Day 3: Take a trip to Waiheke Island.",
+    "Day 4: Explore Auckland Zoo and the city.",
+    "Day 5: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Auckland,+New+Zealand",
+  "contact": {
+    "phone": "+64 9-123-4567",
+    "email": "info@aucklandescapes.com"
+  },
+  "type": "normal",
+  "publicId": "Auckland_17415c7e6f"
+},
+{
+  "_id": {
+    "$oid": "66ade61fcf51746599c4e49d"
+  },
+  "name": "Madrid",
+  "description": "Experience the lively atmosphere and cultural landmarks of Madrid.",
+  "image": "madrid.jpg",
+  "days": "4 Days",
+  "people": "2 People",
+  "location": "Spain",
+  "date": "2024-11-15",
+  "price": "19000",
+  "rating": 4.6,
+  "highlights": [
+    "Royal Palace",
+    "Prado Museum",
+    "Retiro Park",
+    "Gran Vía"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Madrid and check-in at the hotel.",
+    "Day 2: Visit the Royal Palace and Prado Museum.",
+    "Day 3: Explore Retiro Park and Gran Vía.",
+    "Day 4: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Madrid,+Spain",
+  "contact": {
+    "phone": "+34 91 123 4567",
+    "email": "info@madridtours.com"
+  },
+  "type": "normal",
+  "publicId": "Madrid_2eab50a086"
+},
+{
+  "_id": {
+    "$oid": "66ade61fcf51746599c4e49e"
+  },
+  "name": "Budapest",
+  "description": "Enjoy the historic charm and vibrant nightlife of Budapest.",
+  "image": "budapest.jpg",
+  "days": "5 Days",
+  "people": "2 People",
+  "location": "Hungary",
+  "date": "2024-12-10",
+  "price": "17000",
+  "rating": 4.7,
+  "highlights": [
+    "Buda Castle",
+    "Parliament Building",
+    "Thermal Baths",
+    "Fisherman’s Bastion"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Budapest and check-in at the hotel.",
+    "Day 2: Visit Buda Castle and Fisherman’s Bastion.",
+    "Day 3: Explore the Parliament Building and thermal baths.",
+    "Day 4: Free day for additional activities.",
+    "Day 5: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Budapest,+Hungary",
+  "contact": {
+    "phone": "+36 1 123 4567",
+    "email": "info@budapestgetaways.com"
+  },
+  "type": "normal",
+  "publicId": "Budapest_351c9b2a00"
+},
+{
+  "_id": {
+    "$oid": "66ade61fcf51746599c4e49f"
+  },
+  "name": "Vienna",
+  "description": "Experience the elegance and cultural richness of Vienna.",
+  "image": "vienna.jpg",
+  "days": "4 Days",
+  "people": "2 People",
+  "location": "Austria",
+  "date": "2024-11-28",
+  "price": "18000",
+  "rating": 4.8,
+  "highlights": [
+    "Schonbrunn Palace",
+    "St. Stephen’s Cathedral",
+    "Belvedere Palace",
+    "Ringstrasse"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Vienna and check-in at the hotel.",
+    "Day 2: Visit Schönbrunn Palace and Belvedere Palace.",
+    "Day 3: Explore St. Stephen’s Cathedral and Ringstrasse.",
+    "Day 4: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Vienna,+Austria",
+  "contact": {
+    "phone": "+43 1 1234567",
+    "email": "info@viennagetaways.com"
+  },
+  "type": "normal",
+  "publicId": "Vienna_bae28b27a7"
+},
+{
+  "_id": {
+    "$oid": "66ade61fcf51746599c4e4a0"
+  },
+  "name": "San Francisco",
+  "description": "Explore the iconic landmarks and scenic beauty of San Francisco.",
+  "image": "sanfrancisco.jpg",
+  "days": "5 Days",
+  "people": "3 People",
+  "location": "USA",
+  "date": "2024-12-08",
+  "price": "21000",
+  "rating": 4.7,
+  "highlights": [
+    "Golden Gate Bridge",
+    "Alcatraz Island",
+    "Fisherman’s Wharf",
+    "Chinatown"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in San Francisco and check-in at the hotel.",
+    "Day 2: Visit Golden Gate Bridge and Fisherman’s Wharf.",
+    "Day 3: Take a tour of Alcatraz Island.",
+    "Day 4: Explore Chinatown and the city.",
+    "Day 5: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/San+Francisco,+CA,+USA",
+  "contact": {
+    "phone": "+1 415-123-4567",
+    "email": "info@sanfranciscoescapes.com"
+  },
+  "type": "normal",
+  "publicId": "San_Francisco_7261c50c54"
+},
+{
+  "_id": {
+    "$oid": "66ade61fcf51746599c4e4a1"
+  },
+  "name": "Osaka",
+  "description": "Discover the vibrant culture and modern attractions of Osaka.",
+  "image": "osaka.jpg",
+  "days": "4 Days",
+  "people": "2 People",
+  "location": "Japan",
+  "date": "2024-12-01",
+  "price": "19000",
+  "rating": 4.6,
+  "highlights": [
+    "Osaka Castle",
+    "Dotonbori",
+    "Universal Studios Japan",
+    "Shitenno-ji Temple"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Osaka and check-in at the hotel.",
+    "Day 2: Visit Osaka Castle and Shitenno-ji Temple.",
+    "Day 3: Explore Dotonbori and Universal Studios Japan.",
+    "Day 4: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Osaka,+Japan",
+  "contact": {
+    "phone": "+81 6-1234-5678",
+    "email": "info@osakatravel.com"
+  },
+  "type": "normal",
+  "publicId": "Osaka_f7cce686cc"
+},
+{
+  "_id": {
+    "$oid": "66ade61fcf51746599c4e4a2"
+  },
+  "name": "Prague",
+  "description": "Enjoy the charming architecture and historic sites of Prague.",
+  "image": "prague.jpg",
+  "days": "5 Days",
+  "people": "2 People",
+  "location": "Czech Republic",
+  "date": "2024-12-17",
+  "price": "20000",
+  "rating": 4.8,
+  "highlights": [
+    "Prague Castle",
+    "Charles Bridge",
+    "Old Town Square",
+    "Astronomical Clock"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Prague and check-in at the hotel.",
+    "Day 2: Visit Prague Castle and Charles Bridge.",
+    "Day 3: Explore Old Town Square and the Astronomical Clock.",
+    "Day 4: Free day for additional activities.",
+    "Day 5: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Prague,+Czech+Republic",
+  "contact": {
+    "phone": "+420 123 456 789",
+    "email": "info@praguetravel.com"
+  },
+  "type": "normal",
+  "publicId": "Prague_0adea78d84"
+},
+{
+  "_id": {
+    "$oid": "66ade61fcf51746599c4e4a3"
+  },
+  "name": "Athens",
+  "description": "Explore the ancient landmarks and vibrant culture of Athens.",
+  "image": "athens.jpg",
+  "days": "4 Days",
+  "people": "2 People",
+  "location": "Greece",
+  "date": "2024-11-30",
+  "price": "20000",
+  "rating": 4.7,
+  "highlights": [
+    "Acropolis of Athens",
+    "Parthenon",
+    "Plaka District",
+    "Temple of Olympian Zeus"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Athens and check-in at the hotel.",
+    "Day 2: Visit the Acropolis and Parthenon.",
+    "Day 3: Explore Plaka District and Temple of Olympian Zeus.",
+    "Day 4: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Athens,+Greece",
+  "contact": {
+    "phone": "+30 21 1234567",
+    "email": "info@athenstravel.com"
+  },
+  "type": "normal",
+  "publicId": "Athens_cdb1242942"
+},
+{
+  "_id": {
+    "$oid": "66ade69dcf51746599c4e4a4"
+  },
+  "name": "Delhi",
+  "description": "Explore the historic landmarks and vibrant culture of Delhi.",
+  "image": "delhi.jpg",
+  "days": "4 Days",
+  "people": "2 People",
+  "location": "India",
+  "date": "2024-11-10",
+  "price": "15000",
+  "rating": 4.6,
+  "highlights": [
+    "Red Fort",
+    "India Gate",
+    "Qutub Minar",
+    "Humayun’s Tomb"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Delhi and check-in at the hotel.",
+    "Day 2: Visit Red Fort and India Gate.",
+    "Day 3: Explore Qutub Minar and Humayun’s Tomb.",
+    "Day 4: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Delhi,+India",
+  "contact": {
+    "phone": "+91 11-1234-5678",
+    "email": "info@delhitravel.com"
+  },
+  "type": "normal",
+  "publicId": "Delhi_ef145c056a"
+},
+{
+  "_id": {
+    "$oid": "66ade69dcf51746599c4e4a5"
+  },
+  "name": "Mumbai",
+  "description": "Experience the bustling life and landmarks of Mumbai.",
+  "image": "mumbai.jpg",
+  "days": "5 Days",
+  "people": "2 People",
+  "location": "India",
+  "date": "2024-12-05",
+  "price": "18000",
+  "rating": 4.7,
+  "highlights": [
+    "Gateway of India",
+    "Marine Drive",
+    "Elephanta Caves",
+    "Chor Bazaar"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Mumbai and check-in at the hotel.",
+    "Day 2: Visit Gateway of India and Marine Drive.",
+    "Day 3: Take a trip to Elephanta Caves.",
+    "Day 4: Explore Chor Bazaar and the city.",
+    "Day 5: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Mumbai,+India",
+  "contact": {
+    "phone": "+91 22-1234-5678",
+    "email": "info@mumbaigetaways.com"
+  },
+  "type": "normal",
+  "publicId": "mumbai_2a684f2165"
+},
+{
+  "_id": {
+    "$oid": "66ade69dcf51746599c4e4a6"
+  },
+  "name": "Bangalore",
+  "description": "Discover the tech hub and vibrant culture of Bangalore.",
+  "image": "bangalore.jpg",
+  "days": "4 Days",
+  "people": "2 People",
+  "location": "India",
+  "date": "2024-11-20",
+  "price": "16000",
+  "rating": 4.5,
+  "highlights": [
+    "Lalbagh Botanical Garden",
+    "Bangalore Palace",
+    "Vidhana Soudha",
+    "Cubbon Park"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Bangalore and check-in at the hotel.",
+    "Day 2: Visit Lalbagh Botanical Garden and Bangalore Palace.",
+    "Day 3: Explore Vidhana Soudha and Cubbon Park.",
+    "Day 4: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Bangalore,+India",
+  "contact": {
+    "phone": "+91 80-1234-5678",
+    "email": "info@bangaloretours.com"
+  },
+  "type": "normal",
+  "publicId": "banglore_9609802eff"
+},
+{
+  "_id": {
+    "$oid": "66ade69dcf51746599c4e4a7"
+  },
+  "name": "Jaipur",
+  "description": "Experience the royal heritage and vibrant markets of Jaipur.",
+  "image": "jaipur.jpg",
+  "days": "5 Days",
+  "people": "2 People",
+  "location": "India",
+  "date": "2024-12-15",
+  "price": "17000",
+  "rating": 4.6,
+  "highlights": [
+    "Amber Fort",
+    "City Palace",
+    "Hawa Mahal",
+    "Jantar Mantar"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Jaipur and check-in at the hotel.",
+    "Day 2: Visit Amber Fort and City Palace.",
+    "Day 3: Explore Hawa Mahal and Jantar Mantar.",
+    "Day 4: Free day for additional activities.",
+    "Day 5: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Jaipur,+India",
+  "contact": {
+    "phone": "+91 141-1234-5678",
+    "email": "info@jaipurtours.com"
+  },
+  "type": "normal",
+  "publicId": "jaipur_ed01a3bfc3"
+},
+{
+  "_id": {
+    "$oid": "66ade69ecf51746599c4e4a8"
+  },
+  "name": "Hyderabad",
+  "description": "Explore the rich history and modern attractions of Hyderabad.",
+  "image": "hyderabad.jpg",
+  "days": "4 Days",
+  "people": "2 People",
+  "location": "India",
+  "date": "2024-12-25",
+  "price": "15000",
+  "rating": 4.5,
+  "highlights": [
+    "Charminar",
+    "Golconda Fort",
+    "Hussain Sagar Lake",
+    "Ramoji Film City"
+  ],
+  "itinerary": [
+    "Day 1: Arrival in Hyderabad and check-in at the hotel.",
+    "Day 2: Visit Charminar and Golconda Fort.",
+    "Day 3: Explore Hussain Sagar Lake and Ramoji Film City.",
+    "Day 4: Departure."
+  ],
+  "mapLink": "https://www.google.com/maps/place/Hyderabad,+India",
+  "contact": {
+    "phone": "+91 40-1234-5678",
+    "email": "info@hyderabadtravel.com"
+  },
+  "type": "normal",
+  "publicId": "medium_hydrebad_0764fa2887"
+}]

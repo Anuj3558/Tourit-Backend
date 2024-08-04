@@ -1,0 +1,282 @@
+[
+    {
+      "name": "Paris",
+      "description": "Experience the city of lights and love with iconic landmarks.",
+      "image": "paris",  
+      "days": "3 Days",
+      "people": "2 People",
+      "location": "France",
+      "date": "2024-12-01",
+      "price": "15000",
+      "rating": 4.7,
+      "highlights": [
+        "Eiffel Tower",
+        "Louvre Museum",
+        "Champs-Élysées",
+        "Notre-Dame Cathedral"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Paris and check-in at the hotel.",
+        "Day 2: Visit the Eiffel Tower and Seine River cruise.",
+        "Day 3: Explore the Louvre Museum and Montmartre."
+      ],
+      "mapLink": "https://www.google.com/maps/place/Paris,+France",
+      "contact": {
+        "phone": "+33 1 23 45 67 89",
+        "email": "info@parisescapes.com"
+      },
+      "type": "popular",
+      "publicId": "paris_fc4d1058fb"
+    },
+    {
+      "name": "New York",
+      "description": "Explore the vibrant streets and cultural landmarks of NYC.",
+      "image": "ny",  
+      "days": "5 Days",
+      "people": "4 People",
+      "location": "USA",
+      "date": "2024-11-15",
+      "price": "25000",
+      "rating": 4.8,
+      "highlights": [
+        "Statue of Liberty",
+        "Central Park",
+        "Times Square",
+        "Broadway Shows"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in New York and check-in at the hotel.",
+        "Day 2: Visit the Statue of Liberty and Ellis Island.",
+        "Day 3: Explore Central Park and Times Square.",
+        "Day 4: Attend a Broadway show and visit the Museum of Modern Art.",
+        "Day 5: Departure."
+      ],
+      "mapLink": "https://www.google.com/maps/place/New+York,+NY,+USA",
+      "contact": {
+        "phone": "+1 212-123-4567",
+        "email": "info@nycgetaways.com"
+      },
+      "type": "popular",
+      "publicId": "new_York_daf2fce9ec"
+    },
+    {
+      "name": "Tokyo",
+      "description": "Dive into the bustling metropolis with a blend of tradition and modernity.",
+      "image": "tokyo",  
+      "days": "7 Days",
+      "people": "3 People",
+      "location": "Japan",
+      "date": "2024-12-05",
+      "price": "30000",
+      "rating": 4.9,
+      "highlights": [
+        "Shibuya Crossing",
+        "Senso-ji Temple",
+        "Tokyo Tower",
+        "Akihabara"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Tokyo and check-in at the hotel.",
+        "Day 2: Explore Shibuya Crossing and Shinjuku.",
+        "Day 3: Visit Senso-ji Temple and Asakusa.",
+        "Day 4: Discover Akihabara and Tokyo Tower.",
+        "Day 5: Day trip to Mount Fuji.",
+        "Day 6: Explore Odaiba and Tokyo Skytree.",
+        "Day 7: Departure."
+      ],
+      "mapLink": "https://www.google.com/maps/place/Tokyo,+Japan",
+      "contact": {
+        "phone": "+81 3-1234-5678",
+        "email": "info@tokyotravel.com"
+      },
+      "type": "popular",
+      "publicId": "tokyo_340d34b26f"
+    },
+    {
+      "name": "Barcelona",
+      "description": "Discover the unique architecture and vibrant culture of Barcelona.",
+      "image": "barcelona",  
+      "days": "4 Days",
+      "people": "2 People",
+      "location": "Spain",
+      "date": "2024-12-10",
+      "price": "18000",
+      "rating": 4.6,
+      "highlights": [
+        "Sagrada Família",
+        "Park Güell",
+        "La Rambla",
+        "Gothic Quarter"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Barcelona and check-in at the hotel.",
+        "Day 2: Visit Sagrada Família and Park Güell.",
+        "Day 3: Explore La Rambla and the Gothic Quarter.",
+        "Day 4: Departure."
+      ],
+      "mapLink": "https://www.google.com/maps/place/Barcelona,+Spain",
+      "contact": {
+        "phone": "+34 93 123 4567",
+        "email": "info@barcelonagetaways.com"
+      },
+      "type": "popular",
+      "publicId": "barcelona_b10a8d114e"
+    },
+    {
+      "name": "Rome",
+      "description": "Step back in time and explore the ancient wonders of Rome.",
+      "image": "rome",  
+      "days": "5 Days",
+      "people": "3 People",
+      "location": "Italy",
+      "date": "2024-12-20",
+      "price": "22000",
+      "rating": 4.8,
+      "highlights": [
+        "Colosseum",
+        "Vatican City",
+        "Pantheon",
+        "Roman Forum"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Rome and check-in at the hotel.",
+        "Day 2: Visit the Colosseum and Roman Forum.",
+        "Day 3: Explore Vatican City and St. Peter’s Basilica.",
+        "Day 4: Visit the Pantheon and Piazza Navona.",
+        "Day 5: Departure."
+      ],
+      "mapLink": "https://www.google.com/maps/place/Rome,+Italy",
+      "contact": {
+        "phone": "+39 06 1234 5678",
+        "email": "info@rometravel.com"
+      },
+      "type": "popular",
+      "publicId": "rome_1651add21b"
+    },
+    {
+      "name": "Sydney",
+      "description": "Enjoy the stunning harbor views and relaxed lifestyle of Sydney.",
+      "image": "sydney",  
+      "days": "6 Days",
+      "people": "4 People",
+      "location": "Australia",
+      "date": "2024-12-25",
+      "price": "28000",
+      "rating": 4.7,
+      "highlights": [
+        "Sydney Opera House",
+        "Harbour Bridge",
+        "Bondi Beach",
+        "Royal Botanic Garden"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Sydney and check-in at the hotel.",
+        "Day 2: Visit the Sydney Opera House and Harbour Bridge.",
+        "Day 3: Explore Bondi Beach and its surroundings.",
+        "Day 4: Discover the Royal Botanic Garden and Darling Harbour.",
+        "Day 5: Day trip to Blue Mountains.",
+        "Day 6: Departure."
+      ],
+      "mapLink": "https://www.google.com/maps/place/Sydney,+Australia",
+      "contact": {
+        "phone": "+61 2 1234 5678",
+        "email": "info@sydneygetaways.com"
+      },
+      "type": "popular",
+      "publicId": "sydney_fe6590217e"
+    },
+    {
+      "name": "Dubai",
+      "description": "Experience the luxurious and futuristic cityscape of Dubai.",
+      "image": "dubai",  
+      "days": "4 Days",
+      "people": "2 People",
+      "location": "UAE",
+      "date": "2024-11-30",
+      "price": "25000",
+      "rating": 4.9,
+      "highlights": [
+        "Burj Khalifa",
+        "Dubai Mall",
+        "Palm Jumeirah",
+        "Dubai Marina"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Dubai and check-in at the hotel.",
+        "Day 2: Visit the Burj Khalifa and Dubai Mall.",
+        "Day 3: Explore Palm Jumeirah and Dubai Marina.",
+        "Day 4: Departure."
+      ],
+      "mapLink": "https://www.google.com/maps/place/Dubai,+UAE",
+      "contact": {
+        "phone": "+971 4 123 4567",
+        "email": "info@dubaigetaways.com"
+      },
+      "type": "popular",
+      "publicId": "dubai_11aec8073c"
+    },
+    {
+      "name": "Istanbul",
+      "description": "Immerse yourself in the rich history and vibrant culture of Istanbul.",
+      "image": "istm",  
+      "days": "5 Days",
+      "people": "3 People",
+      "location": "Turkey",
+      "date": "2024-12-12",
+      "price": "20000",
+      "rating": 4.6,
+      "highlights": [
+        "Hagia Sophia",
+        "Topkapi Palace",
+        "Grand Bazaar",
+        "Bosphorus Cruise"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Istanbul and check-in at the hotel.",
+        "Day 2: Visit Hagia Sophia and Topkapi Palace.",
+        "Day 3: Explore the Grand Bazaar and Blue Mosque.",
+        "Day 4: Take a Bosphorus Cruise.",
+        "Day 5: Departure."
+      ],
+      "mapLink": "https://www.google.com/maps/place/Istanbul,+Turkey",
+      "contact": {
+        "phone": "+90 212 123 4567",
+        "email": "info@istanbultravel.com"
+      },
+      "type": "popular",
+      "publicId": "istambul_366ef35c55"
+    },
+    {
+      "name": "Cape Town",
+      "description": "Explore the beautiful landscapes and diverse culture of Cape Town.",
+      "image": "capetown",  
+      "days": "6 Days",
+      "people": "4 People",
+      "location": "South Africa",
+      "date": "2024-12-22",
+      "price": "26000",
+      "rating": 4.7,
+      "highlights": [
+        "Table Mountain",
+        "Cape of Good Hope",
+        "Victoria & Alfred Waterfront",
+        "Kirstenbosch Gardens"
+      ],
+      "itinerary": [
+        "Day 1: Arrival in Cape Town and check-in at the hotel.",
+        "Day 2: Visit Table Mountain and explore the Waterfront.",
+        "Day 3: Take a trip to Cape of Good Hope.",
+        "Day 4: Visit Kirstenbosch Gardens and enjoy a local tour.",
+        "Day 5: Free day for shopping or additional activities.",
+        "Day 6: Departure."
+      ],
+      "mapLink": "https://www.google.com/maps/place/Cape+Town,+South+Africa",
+      "contact": {
+        "phone": "+27 21 123 4567",
+        "email": "info@capetowntrips.com"
+      },
+      "type": "popular",
+      "publicId": "CAPE_TOWN_96c231f8a4"
+    }
+  ]
+  
