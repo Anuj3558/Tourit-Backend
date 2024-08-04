@@ -14,7 +14,7 @@ connectToMongoDb("mongodb://mongo:fKgvTUbgUARhONDaESjTpHxgDwQiojHh@viaduct.proxy
 
 
 app.use(cors({
-  origin: 'https://66af9caaa7f4c7b0841e1feb--chic-gumdrop-962949.netlify.app', // Your frontend URL
+  origin: 'https://tourit-travel.netlify.app', // Your frontend URL
   methods: 'GET,POST,PUT,DELETE',
   allowedHeaders: 'Content-Type,Authorization',
   credentials: true // This is crucial for handling credentials
